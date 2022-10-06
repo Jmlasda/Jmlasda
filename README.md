@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jmlasda
 - 👀 I’m interested in ...becoming Zen
 - 🌱 I’m currently learning ... all things Github
-- 💞️ I’m looking to collaborate on ...building an amazing sales pipeline
+- 💞️ I’m looking to collaborate on ...coding projects
 - 📫 How to reach me ... jmlasda@gmail.com
 
 <!---
